@@ -1040,6 +1040,58 @@ document.addEventListener('DOMContentLoaded', function() {
   initCharts();
   // Delay map init slightly to ensure container is laid out
   setTimeout(initMap, 200);
+
+// Load project markers from GeoJSON (same directory)
+fetch('./projects.geojson')
+  .then(r => r.json())
+  .then(data => {
+    const projectLayer = L.layerGroup().addTo(map);
+    data.features.forEach(feat => {
+      const p = feat.properties;
+      const coords = feat.geometry.coordinates;
+      const is2026 = p.startup_2026 && p.startup_2026.trim().length > 0;
+      const color = is2026 ? '#be123c' : '#1d4ed8';
+      const fillColor = is2026 ? '#fb7185' : '#60a5fa';
+      
+      const marker = L.circleMarker([coords[1], coords[0]], {
+        radius: is2026 ? 8 : 6,
+        fillColor: fillColor,
+        color: color,
+        weight: 2.5,
+        opacity: 0.95,
+        fillOpacity: 0.85
+      });
+      
+      const popupHtml = '<div style="font-family:'Microsoft YaHei',sans-serif;min-width:260px;padding:4px;">' +
+        '<div style="font-size:15px;font-weight:700;color:' + (is2026 ? '#be123c' : '#1e3a5f') + ';margin-bottom:8px;border-bottom:2px solid ' + (is2026 ? '#be123c' : '#1e3a5f') + ';padding-bottom:6px;">' + (p.name || '未命名') + '</div>' +
+        (p.report_name ? '<div style="font-size:12px;color:#64748b;margin-bottom:4px;">上报名称：' + p.report_name + '</div>' : '') +
+        (is2026 ? '<div style="font-size:12px;color:#be123c;font-weight:600;margin-bottom:6px;">&#10022; 2026年启动：' + p.startup_2026 + '</div>' : '') +
+        '<div style="margin-top:8px;font-size:12px;line-height:1.8;color:#334155;">' +
+          '<div><strong>谋划1.0：</strong>' + (p.plan1 || '&#8212;') + (p.plan1_date ? ' <span style="color:#94a3b8;">(' + p.plan1_date + ')</span>' : '') + '</div>' +
+          '<div><strong>谋划2.0：</strong>' + (p.plan2 || '&#8212;') + '</div>' +
+          '<div><strong>片区策划：</strong>' + (p.plan3 || '&#8212;') + '</div>' +
+        '</div>' +
+      '</div>';
+      
+      marker.bindPopup(popupHtml, { maxWidth: 320, className: 'project-popup' });
+      projectLayer.addLayer(marker);
+    });
+    
+    // Add project legend
+    const projLegend = L.control({ position: 'bottomleft' });
+    projLegend.onAdd = function() {
+      const div = L.DomUtil.create('div', 'info legend');
+      const isDarkMode = document.documentElement.getAttribute('data-theme') === 'dark';
+      div.style.cssText = 'background: ' + (isDarkMode ? 'rgba(28,25,23,0.95)' : 'rgba(255,255,255,0.96)') + '; padding: 12px 16px; border-radius: 12px; font-family: 'Microsoft YaHei', sans-serif; font-size: 12px; line-height: 1.8; box-shadow: 0 4px 20px rgba(0,0,0,0.15); color: ' + (isDarkMode ? '#d6d3d1' : '#1c1917') + '; border: 1px solid ' + (isDarkMode ? 'rgba(250,250,249,0.1)' : 'rgba(0,0,0,0.05)') + ';';
+      div.innerHTML = '<div style="font-weight:700;margin-bottom:8px;font-size:13px;">提交资料项目</div>' +
+        '<div><span style="background:#fb7185;border:2.5px solid #be123c;width:14px;height:14px;display:inline-block;border-radius:50%;margin-right:8px;vertical-align:middle;"></span> 2026年启动实施</div>' +
+        '<div><span style="background:#60a5fa;border:2.5px solid #1d4ed8;width:14px;height:14px;display:inline-block;border-radius:50%;margin-right:8px;vertical-align:middle;"></span> 其他谋划项目</div>' +
+        '<div style="margin-top:8px;font-size:11px;opacity:0.8;">点击圆圈查看详情</div>';
+      return div;
+    };
+    projLegend.addTo(map);
+  })
+  .catch(e => console.log('Project markers load failed:', e));
 });
 </script>
 

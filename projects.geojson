@@ -1,0 +1,1125 @@
+{
+  "type": "FeatureCollection",
+  "name": "北京市城市更新综合化组团点",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "HD-2",
+        "name": "百年京张AI创新带-中部AI原点社区（北航）更新片区",
+        "report_name": "京张铁路遗址公园沿线创新交往示范区",
+        "plan1": "已提交成果",
+        "plan1_date": "2025-11-28",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "百年京张AI创新带-中部AI原点社区（北航）更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.33364953,
+          39.97495741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SY-10",
+        "name": "新顺南大街潮流消费新地标片区",
+        "report_name": "新顺南大街商业精品街区",
+        "plan1": "初步谋划",
+        "plan1_date": "2026-01-01",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.64459205,
+          40.12864366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "HD-5",
+        "name": "百年京张AI创新带－中部AI原点社区（五道口）更新片区",
+        "report_name": "",
+        "plan1": "已提交成果",
+        "plan1_date": "2025-11-28",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "百年京张AI创新带－中部AI原点社区（五道口）更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.33159107,
+          39.99156159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CP-4",
+        "name": "沙河镇沙河未来智造港更新片区",
+        "report_name": "沙河未来智造港",
+        "plan1": "已提交成果",
+        "plan1_date": "2026-03-12",
+        "plan2": "已提交成果",
+        "plan3": "",
+        "startup_2026": "沙河镇沙河未来智造港更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.25194914,
+          40.12296752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SY-7",
+        "name": "金马工业园产业升级片区",
+        "report_name": "顺义区金马工业区区域性综合城市更新",
+        "plan1": "初步谋划",
+        "plan1_date": "",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.57142671,
+          40.13459066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SY-6",
+        "name": "顺义园林河产城融合活力片区",
+        "report_name": "顺义园林河开发区区域综合性城市更新",
+        "plan1": "初步谋划",
+        "plan1_date": "2026-03-13",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.66188935,
+          40.08965384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FS-1",
+        "name": "市郊铁路良乡站城融合更新片区",
+        "report_name": "",
+        "plan1": "已提交成果",
+        "plan1_date": "2026-02-01",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "市郊铁路良乡站城融合更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.15066593,
+          39.73984335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "HD-6",
+        "name": "百年京张AI创新带-北部学北园AI自主创新加速区更新片区",
+        "report_name": "",
+        "plan1": "初步谋划",
+        "plan1_date": "2026-01-29",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "百年京张AI创新带-北部学北园AI自主创新加速区更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.34450072,
+          40.01594907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "HD-13",
+        "name": "上地信息路低效楼宇升级示范片区",
+        "report_name": "海淀区上地街道片区更新",
+        "plan1": "初步谋划",
+        "plan1_date": "2025-11-28",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.28877848,
+          40.04108386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SJS-1",
+        "name": "首钢园北区职住商活力更新片区",
+        "report_name": "新首钢高端产业综合服务区北区",
+        "plan1": "已提交成果",
+        "plan1_date": "2026-03-26",
+        "plan2": "已提交成果",
+        "plan3": "",
+        "startup_2026": "首钢园北区职住商活力更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.15514662,
+          39.91149118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "HD-10",
+        "name": "四通桥商业活力片区",
+        "report_name": "中关村四通桥周边组团国际创新青年潮玩活力街区",
+        "plan1": "已提交成果",
+        "plan1_date": "2025-12-28",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3152588,
+          39.96564192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "JK-1",
+        "name": "亦庄国际会展中心更新片区",
+        "report_name": "亦庄国际综合创新服务核心",
+        "plan1": "已提交成果",
+        "plan1_date": "2026-02-01",
+        "plan2": "已提交成果",
+        "plan3": "",
+        "startup_2026": "亦庄国际会展中心更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.51584732,
+          39.78163425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CY-7",
+        "name": "亚奥活力更新片区",
+        "report_name": "奥运村国际科创交往交融示范区",
+        "plan1": "已提交成果",
+        "plan1_date": "2025-11-25",
+        "plan2": "已提交成果",
+        "plan3": "",
+        "startup_2026": "亚奥活力更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.38162405,
+          39.99898182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CY-5",
+        "name": "28号线轨道一体化更新片区",
+        "report_name": "28号线广渠东路车辆段片区更新",
+        "plan1": "初步谋划",
+        "plan1_date": "2025-12-01",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "28号线轨道一体化更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.50138682,
+          39.88625257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "HD-8",
+        "name": "民大城校融合更新片区",
+        "report_name": "中央民族大学及周边地区城校融合发展示范",
+        "plan1": "初步谋划",
+        "plan1_date": "2025-12-28",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.31438484,
+          39.94931923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SJS-3",
+        "name": "巴威北锅青年创意活力集聚更新片区",
+        "report_name": "巴威北锅长安街西延线青年创艺活力集聚区",
+        "plan1": "已提交成果",
+        "plan1_date": "2025-12-26",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "巴威北锅青年创意活力集聚更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.19222051,
+          39.90540321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SY-11",
+        "name": "石门花园式生活街区",
+        "report_name": "",
+        "plan1": "初步谋划",
+        "plan1_date": "2026-02-01",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.63629459,
+          40.1295794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "XC-2",
+        "name": "白塔寺功能融合更新片区",
+        "report_name": "白塔寺平房区可持续保护更新示范区",
+        "plan1": "已提交成果",
+        "plan1_date": "2025-12-31",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "白塔寺功能融合更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.36184405,
+          39.91931445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "XC-1",
+        "name": "菜市口街区（棉花片+大吉）更新片区",
+        "report_name": "棉花片高质量渐进式更新示范区",
+        "plan1": "已提交成果",
+        "plan1_date": "2025-12-31",
+        "plan2": "已提交成果",
+        "plan3": "",
+        "startup_2026": "菜市口街区（棉花片+大吉）更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.36946307,
+          39.88928369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CY-10",
+        "name": "十八里店青年创驿职住商活力更新片区",
+        "report_name": "十八里店北京新青年职住商复合中心",
+        "plan1": "已提交成果",
+        "plan1_date": "2025-11-25",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "十八里店青年创驿职住商活力更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.46159411,
+          39.83831306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "HD-1",
+        "name": "百年京张AI创新带－南部大钟寺AI产业集聚区更新片区",
+        "report_name": "大钟寺世界领先科创活力示范更新片区",
+        "plan1": "已提交成果",
+        "plan1_date": "2026-01-29",
+        "plan2": "已提交成果",
+        "plan3": "",
+        "startup_2026": "百年京张AI创新带－南部大钟寺AI产业集聚区更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.33327259,
+          39.96541049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SJS-5",
+        "name": "北重东厂产业升级更新片区",
+        "report_name": "青春北重 活力园区",
+        "plan1": "已提交成果",
+        "plan1_date": "2025-12-26",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "北重东厂产业升级更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.23442658,
+          39.89059253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "TZ-1",
+        "name": "北运河五河交汇综合更新片区",
+        "report_name": "北运河五河交汇综合更新示范区",
+        "plan1": "",
+        "plan1_date": "",
+        "plan2": "已提交成果",
+        "plan3": "",
+        "startup_2026": "北运河五河交汇综合更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.66194761,
+          39.91672013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FT-7",
+        "name": "南中轴首都商务更新片区",
+        "report_name": "丰台南中轴地区",
+        "plan1": "",
+        "plan1_date": "",
+        "plan2": "已提交成果",
+        "plan3": "",
+        "startup_2026": "南中轴首都商务更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.39287924,
+          39.84399342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CP-2",
+        "name": "南口老城更新片区",
+        "report_name": "南口老城区域综合性城市更新",
+        "plan1": "已提交成果",
+        "plan1_date": "2026-02-01",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "南口老城更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.12322824,
+          40.23796407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FT-5",
+        "name": "丰台站站城融合活力更新片区",
+        "report_name": "",
+        "plan1": "初步谋划",
+        "plan1_date": "2025-11-28",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "丰台站站城融合活力更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.29418173,
+          39.84984299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SJS-2",
+        "name": "模式口历史文化街区更新片区",
+        "report_name": "",
+        "plan1": "已提交成果",
+        "plan1_date": "2025-12-26",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "模式口历史文化街区更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.15878983,
+          39.93496892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SY-13",
+        "name": "顺义区空港开发区A区区域综合性城市更新",
+        "report_name": "顺义区空港开发区A区区域综合性城市更新",
+        "plan1": "初步谋划",
+        "plan1_date": "2025-12-01",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.556686,
+          40.07018569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SY-14",
+        "name": "顺义空港开发区B区片区城市更新",
+        "report_name": "顺义空港开发区B区片区城市更新",
+        "plan1": "初步谋划",
+        "plan1_date": "2026-02-01",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.54370222,
+          40.09278388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "HD-4",
+        "name": "百年京张AI创新带-西侧中关村科技服务翼更新片区",
+        "report_name": "中关村东西区创新生活融合组团",
+        "plan1": "已提交成果",
+        "plan1_date": "2026-01-29",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "百年京张AI创新带-西侧中关村科技服务翼更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.31120579,
+          39.98248291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CY-1",
+        "name": "三里屯国际交往活力交融更新片区",
+        "report_name": "朝阳区三里屯国际交往活力区",
+        "plan1": "已提交成果",
+        "plan1_date": "2026-01-28",
+        "plan2": "已提交成果",
+        "plan3": "",
+        "startup_2026": "三里屯国际交往活力交融更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.44912732,
+          39.9361475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CY-11",
+        "name": "豆各庄北京水乡文产旅更新片区",
+        "report_name": "豆各庄北京水乡国家生态旅游示范区",
+        "plan1": "已提交成果",
+        "plan1_date": "2026-01-29",
+        "plan2": "已提交成果",
+        "plan3": "",
+        "startup_2026": "豆各庄北京水乡文产旅更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.57507736,
+          39.87527866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "HD-14",
+        "name": "中关村永丰产业园升级示范片区",
+        "report_name": "北清路沿线科创片区2个组团+1个项目",
+        "plan1": "初步谋划",
+        "plan1_date": "2026-01-29",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.23725362,
+          40.07442094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CY-2",
+        "name": "CBD活力更新片区",
+        "report_name": "CBD国际商务消费引领示范区",
+        "plan1": "已提交成果",
+        "plan1_date": "2026-01-28",
+        "plan2": "已提交成果",
+        "plan3": "",
+        "startup_2026": "CBD活力更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4493937,
+          39.91539493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CY-14",
+        "name": "麦子店更新片区",
+        "report_name": "亮马河-朝阳公园国际生活文化交流片区",
+        "plan1": "已提交成果",
+        "plan1_date": "2025-12-08",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "麦子店更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.47538923,
+          39.94209955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FT-4",
+        "name": "成寿寺东南三环商居功能更新片区",
+        "report_name": "成寿寺东南三环商务花园港组团",
+        "plan1": "已提交成果",
+        "plan1_date": "2025-12-26",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "成寿寺东南三环商居功能更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.43834331,
+          39.84728498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CY-13",
+        "name": "环国贸更新片区",
+        "report_name": "环国贸全球CAZ活力焕发区",
+        "plan1": "已提交成果",
+        "plan1_date": "",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.45041038,
+          39.90947045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "HD-7",
+        "name": "故宫北院AI北纬社区更新片区",
+        "report_name": "",
+        "plan1": "初步谋划",
+        "plan1_date": "2025-11-28",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "故宫北院AI北纬社区更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.21967053,
+          40.09600774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FT-1",
+        "name": "宛平抗战主题红色文旅更新片区",
+        "report_name": "宛平城红色研学基地更新片区",
+        "plan1": "已提交成果",
+        "plan1_date": "2026-04-01",
+        "plan2": "已提交成果",
+        "plan3": "",
+        "startup_2026": "宛平抗战主题红色文旅更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.22005173,
+          39.85020704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SJS-4",
+        "name": "银保园现代金融活力更新片区",
+        "report_name": "北京银行保险产业园国家级金融产业示范区",
+        "plan1": "已提交成果",
+        "plan1_date": "2025-12-26",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "银保园现代金融活力更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.17035771,
+          39.94084925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CP-5",
+        "name": "北七家能源谷产城融合“芯”更新片区",
+        "report_name": "北七家镇未来城成果转化基地\n产城融合更新组团",
+        "plan1": "已提交成果",
+        "plan1_date": "2026-02-01",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "北七家能源谷产城融合“芯”更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.41563268,
+          40.12237793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "DX-1",
+        "name": "天宫院国际绿色智慧物流枢纽更新片区",
+        "report_name": "大兴国际绿色智慧物流枢纽",
+        "plan1": "已提交成果",
+        "plan1_date": "2025-11-28",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "天宫院国际绿色智慧物流枢纽更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.33917696,
+          39.69242947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "HD-11",
+        "name": "畅春新园更新片区",
+        "report_name": "",
+        "plan1": "初步谋划",
+        "plan1_date": "2025-11-28",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.2891448,
+          39.98573286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FT-10",
+        "name": "丰台科技园宜居生活焕发活力片区",
+        "report_name": "丰台科技园东区一期组团+高质量产城融合示范园区",
+        "plan1": "已提交成果",
+        "plan1_date": "2025-12-26",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.27879834,
+          39.82914555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SY-9",
+        "name": "光明片完整社区示范区",
+        "report_name": "顺义区光明片区区域综合性城市更新",
+        "plan1": "初步谋划",
+        "plan1_date": "",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.66128058,
+          40.11774978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SY-12",
+        "name": "中德产业园及周边",
+        "report_name": "R4线中德产业园站周边片区城市更新",
+        "plan1": "初步谋划",
+        "plan1_date": "2026-02-01",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.63671599,
+          40.05340436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FT-2",
+        "name": "园博园京西科创文旅宜业宜居宜游更新片区",
+        "report_name": "",
+        "plan1": "已提交成果",
+        "plan1_date": "2025-12-26",
+        "plan2": "已提交成果",
+        "plan3": "",
+        "startup_2026": "园博园京西科创文旅宜业宜居宜游更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.18485071,
+          39.87393037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SJS-7",
+        "name": "石门路及周边功能升级片区",
+        "report_name": "石景山西部地区城市更新项目",
+        "plan1": "已提交成果",
+        "plan1_date": "2025-12-26",
+        "plan2": "已提交成果",
+        "plan3": "",
+        "startup_2026": "",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.14403899,
+          39.93990443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FT-9",
+        "name": "东铁营同仁堂及周边中医文创研学示范区",
+        "report_name": "",
+        "plan1": "初步谋划",
+        "plan1_date": "2025-11-28",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.40936257,
+          39.85528828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SY-1",
+        "name": "天竺国际体育文化精品更新片区",
+        "report_name": "顺义天竺国际体育文化精品街区",
+        "plan1": "已提交成果",
+        "plan1_date": "2026-03-13",
+        "plan2": "已提交成果",
+        "plan3": "",
+        "startup_2026": "天竺国际体育文化精品更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.56701139,
+          40.06481565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SY-8",
+        "name": "南彩产业升级片区",
+        "report_name": "顺义区南彩工业区区域综合性城市更新",
+        "plan1": "初步谋划",
+        "plan1_date": "2024-12-01",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.68607278,
+          40.1332647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "DC-1",
+        "name": "磁器口东更新片区",
+        "report_name": "磁器口东片区综合更新示范区",
+        "plan1": "已提交成果",
+        "plan1_date": "2025-12-31",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "磁器口东更新片区",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.41367852,
+          39.88749255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "HD-12",
+        "name": "安宁庄产业升级更新片区",
+        "report_name": "清河安宁庄组团：清河产城融合创新枢纽",
+        "plan1": "已提交成果",
+        "plan1_date": "2025-12-26",
+        "plan2": "",
+        "plan3": "",
+        "startup_2026": "",
+        "remark": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.32686152,
+          40.04172124
+        ]
+      }
+    }
+  ]
+}
